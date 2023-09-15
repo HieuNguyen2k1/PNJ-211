@@ -1,0 +1,15 @@
+D:\PNJ\PNJ-211\EX1\obj\Debug\net7.0\EX1.csproj.AssemblyReference.cache
+D:\PNJ\PNJ-211\EX1\obj\Debug\net7.0\EX1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PNJ\PNJ-211\EX1\obj\Debug\net7.0\EX1.AssemblyInfoInputs.cache
+D:\PNJ\PNJ-211\EX1\obj\Debug\net7.0\EX1.AssemblyInfo.cs
+D:\PNJ\PNJ-211\EX1\obj\Debug\net7.0\EX1.csproj.CoreCompileInputs.cache
+D:\PNJ\PNJ-211\EX1\bin\Debug\net7.0\EX1.exe
+D:\PNJ\PNJ-211\EX1\bin\Debug\net7.0\EX1.deps.json
+D:\PNJ\PNJ-211\EX1\bin\Debug\net7.0\EX1.runtimeconfig.json
+D:\PNJ\PNJ-211\EX1\bin\Debug\net7.0\EX1.dll
+D:\PNJ\PNJ-211\EX1\bin\Debug\net7.0\EX1.pdb
+D:\PNJ\PNJ-211\EX1\obj\Debug\net7.0\EX1.dll
+D:\PNJ\PNJ-211\EX1\obj\Debug\net7.0\refint\EX1.dll
+D:\PNJ\PNJ-211\EX1\obj\Debug\net7.0\EX1.pdb
+D:\PNJ\PNJ-211\EX1\obj\Debug\net7.0\EX1.genruntimeconfig.cache
+D:\PNJ\PNJ-211\EX1\obj\Debug\net7.0\ref\EX1.dll
